@@ -22,7 +22,9 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : absolute_field' blog
 description: > # this means to ignore newlines until "Language & timezone"
-  a youth without strong will
+  共产党人不屑于隐瞒自己的观点和意图。他们公开宣布：他们的目的只有用暴力推翻全部现存的社会制度才能达到。让统治阶级在共产主义革命面前发抖吧。无产者在这个革命中失去的只是锁链。他们获得的将是整个世界。
+  全世界无产者，联合起来！
+  但是谁是无产者，谁是共产党人，这点要搞清楚
 
 
 ## => Language and Timezone
@@ -34,7 +36,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
+  type      : person # "person" (default), "organization"
   name      : absolute_field
   url       : http://absolute-field.github.io
   avatar    : # path or url of avatar image (square)
@@ -118,7 +120,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
