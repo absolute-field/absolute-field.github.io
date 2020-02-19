@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: 评论
+titles: about
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
@@ -25,10 +25,9 @@ titles: 评论
   # @end locale config
 key: page-about
 mathjax: true
-tags: 评论
 ---
 
-这是一个菜鸟+懒狗+前端废物+啥也不会的垃圾摸鱼白嫖的博客
+这是一个菜鸟+懒狗+前端废物+啥也不会的垃圾摸鱼白嫖做的博客
 
 （大摸鱼怪（其实是懒得备案域名和维护服务器））
 
