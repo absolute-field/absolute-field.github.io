@@ -29,4 +29,12 @@ mathjax: true
 
 QQ:895321004(四维的鱼)
 
-欢迎来到我的博客！
+欢迎来到我的博客！由于我技术水平很低写不出什么好东西，不如去下面这些大师傅们的博客康康吧！
+
+友情链接：
+
+[AFKL师傅的博客](https://www.afkl.ml/)
+
+[ytoworld师傅的博客](https://ytoworld.tk/)
+
+[令则师傅的博客](https://lingze.xyz/)  | [令则师傅的csdn](https://blog.csdn.net/wlz_lc_4)
