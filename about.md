@@ -27,7 +27,7 @@ key: page-about
 mathjax: true
 ---
 
-QQ:895321004(四维的鱼)
+QQ:[895321004(四维的鱼)](http://tencent://message/?uin=895321004/)
 
 欢迎来到我的博客！由于我技术水平很低写不出什么好东西，不如去下面这些大师傅们的博客康康吧！
 
@@ -37,4 +37,9 @@ QQ:895321004(四维的鱼)
 
 [ytoworld师傅的博客](https://ytoworld.tk/)
 
-[令则师傅的博客](https://lingze.xyz/)  | [令则师傅的csdn](https://blog.csdn.net/wlz_lc_4)
+[令则师傅的博客](https://lingze.xyz/)    |   [令则师傅的csdn](https://blog.csdn.net/wlz_lc_4)
+
+[x1hy9师傅的博客](http://39.106.144.160/)
+
+[空灵师傅的博客](http://kodosan.com/)
+
