@@ -43,16 +43,16 @@ QQ:895321004(四维的鱼)
 
 [空灵的博客](http://kodosan.com/)
 
-[lola39](lola39.cn)
+[lola39](https://lola39.cn)
 
 [lja](https://ljahum.github.io/)
 
-[羽锅](www.cl4y.top)
+[羽锅](https://www.cl4y.top)
 
-[鲁大师](www.const27.com)
+[鲁大师](https://www.const27.com)
 
-[内江吴彦祖fay](0xfay.github.io)
+[内江吴彦祖fay](https://0xfay.github.io)
 
-[蒋学姐](0xc4m3l.club)
+[蒋学姐](https://0xc4m3l.club)
 
 [迷妹](http://106.75.101.193/blog/)
