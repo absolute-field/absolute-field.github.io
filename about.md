@@ -33,14 +33,26 @@ QQ:895321004(四维的鱼)
 
 友情链接：
 
-[AFKL师傅的博客](https://www.afkl.ml/)
+[AFKL](https://www.afkl.ml/)
 
-[ytoworld师傅的博客](https://ytoworld.tk/)
+[ytoworld](https://ytoworld.tk/)
 
-[令则师傅的博客](https://lingze.xyz/)    |   [令则师傅的csdn](https://blog.csdn.net/wlz_lc_4)
+ [令则csdn](https://blog.csdn.net/wlz_lc_4)
 
-[x1hy9师傅的博客](http://39.106.144.160/)
+[x1hy9的博客](http://39.106.144.160/)
 
-[空灵师傅的博客](http://kodosan.com/)
+[空灵的博客](http://kodosan.com/)
 
 [lola39](lola39.cn)
+
+[lja](https://ljahum.github.io/)
+
+[羽锅](www.cl4y.top)
+
+[鲁大师](www.const27.com)
+
+[内江吴彦祖fay](0xfay.github.io)
+
+[蒋学姐](0xc4m3l.club)
+
+[迷妹](http://106.75.101.193/blog/)
