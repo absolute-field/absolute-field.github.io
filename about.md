@@ -39,7 +39,7 @@ QQ:895321004(四维的鱼)
 
 [AFKL](https://www.afkl.ml/)
 
-[ytoworld](https://ytoworld.tk/)
+[ytoworld](https://leohearts.com/)
 
  [令则csdn](https://blog.csdn.net/wlz_lc_4)
 
