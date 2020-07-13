@@ -27,7 +27,9 @@ key: page-about
 mathjax: true
 ---
 
-QQ:895321004(四维的鱼)   CUIT在读学生     CTF爱好者
+QQ:895321004(四维的鱼)   CUIT在读学生     CTF爱好者 常用id:absolute-field
+
+
 
 欢迎来到我的博客！由于我技术水平很低写不出什么好东西，不如去下面这些大师傅们的博客康康吧！
 
@@ -41,11 +43,11 @@ QQ:895321004(四维的鱼)   CUIT在读学生     CTF爱好者
 
 [ytoworld](https://leohearts.com/)
 
- [令则csdn](https://blog.csdn.net/wlz_lc_4)
+ [令则](https://lingze.xyz/)
 
-[x1hy9的博客](http://39.106.144.160/)
+[x1hy9](http://39.106.144.160/)
 
-[空灵的博客](http://kodosan.com/)
+[空灵](http://kodosan.com/)
 
 [lola39](http://lola39.cn)
 
